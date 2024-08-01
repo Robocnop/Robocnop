@@ -1,6 +1,7 @@
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;I'm+Robocnop;A+Belgian+who+likes+AI&center=true&size=30&color=#F8F8FF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+!+Welcome+to+my+profile;&size=24&color=#F8F8FF&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Robocnop;Belgian+who+likes+AI&size=24&color=#F8F8FF&center=true">
   </a>
 
   <a href="https://discord.com/users/564871522750300160">
@@ -19,6 +20,8 @@
 <br>
 <p align="center">
   <code><img title="CSharp" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
+  <code><img title=".NET" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
+  <code><img title="Roblox Studio" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Roblox.svg"></code>
 </p>
 
 <hr>
@@ -26,5 +29,5 @@
 <h2 align="center">🔧 Tools 🔧</h2>
 <br>
 <p align="center">
-  <code><img title="Visual Studio" height="40" src="https://skillicons.dev/icons?i=vs"></code>
+  <code><img title="Visual Studio" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VS.svg"></code>
 </p>
