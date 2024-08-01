@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+!+Welcome+to+my+profile;I'm+Robocnop;A+Belgian+who+likes+AI&center=true&size=30&color=#F8F8FF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+Welcome+to+my+profile;I'm+Robocnop;A+Belgian+who+likes+AI&center=true&size=30&color=#F8F8FF">
   </a>
 
   <a href="https://discord.com/users/564871522750300160">
