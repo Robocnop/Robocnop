@@ -10,8 +10,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 <h2 align="center">👤 About Me 👤</h2>
 <p align="center">Exiled Contributor, Translator, Owner of an SCP:SL community</p>
@@ -31,12 +29,5 @@
 <h2 align="center">🔧 Tools 🔧</h2>
 <br>
 <p align="center">
-  <code><img title="Visual Studio" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VS.svg"></code>
-</p>
-
-<hr>
-
-<h2 align="center">🔗 Connect with Me 🔗</h2>
-<p align="center">
-  [![Discord Presence](https://lanyard.kyrie25.me/api/564871522750300160)](https://discord.com/users/564871522750300160)
+  <code><img title="Visual Studio" height="40" src="https://github.com/Robocnop/skill-icons/blob/main/icons/VisualStudio-Light.svg"></code>
 </p>
