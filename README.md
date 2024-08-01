@@ -4,7 +4,7 @@
   </a>
 
   <a href="https://discord.com/users/564871522750300160">
-    <img align="right" width="350" src="https://lanyard.kyrie25.me/api/542790005219655687?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117">
+    <img align="right" width="350" src="https://lanyard.kyrie25.me/api/564871522750300160?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117">
   </a>
 </div>
 
