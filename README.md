@@ -10,6 +10,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 <h2 align="center">👤 About Me 👤</h2>
 <p align="center">Exiled Contributor, Translator, Owner of an SCP:SL community</p>
