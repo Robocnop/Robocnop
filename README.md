@@ -8,7 +8,8 @@
   </a>
 </div>
 
-<hr>
+<br>
+<br>
 
 <h2 align="center">👤 About Me 👤</h2>
 <p align="center">Exiled Contributor, Translator, Owner of an SCP:SL community</p>
@@ -32,3 +33,8 @@
 </p>
 
 <hr>
+
+<h2 align="center">🔗 Connect with Me 🔗</h2>
+<p align="center">
+  [![Discord Presence](https://lanyard.kyrie25.me/api/564871522750300160)](https://discord.com/users/564871522750300160)
+</p>
