@@ -49,7 +49,7 @@
 
 <h2 align="center">👨‍💼 My Banner 🃏</h2>
 <p align="center">
-  <img src="https://github.com/Robocnop/RobocnopProfileReadme/blob/main/thisispure-ezgif.com-video-to-gif-converter.gif" alt="My Banner" width="100%">
+  <img src="https://github.com/Robocnop/Robocnop/blob/main/Banner.gif" alt="My Banner" width="100%">
 </p>
 
 <p align="center"><i>This profile has been inspired by <a href="https://github.com/LilNesquuik/LilNesquuik">LilNesquuik's</a> Github profile</i></p>
