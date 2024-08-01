@@ -32,8 +32,3 @@
 </p>
 
 <hr>
-
-<h2 align="center">🔗 Connect with Me 🔗</h2>
-<p align="center">
-  [![Discord Presence](https://lanyard.kyrie25.me/api/564871522750300160)](https://discord.com/users/564871522750300160)
-</p>
