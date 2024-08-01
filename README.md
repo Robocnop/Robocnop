@@ -11,7 +11,7 @@
 <hr>
 
 <h2 align="center">👤 About Me 👤</h2>
-<p align="center">I am an Exiled contributor, passionate about developing and enhancing the community.</p>
+<p align="center">Exiled Contributor, Translator, Owner of an SCP:SL community</p>
 
 <hr>
 
