@@ -32,4 +32,5 @@
 <br>
 <p align="center">
   <code><img title="Visual Studio" height="40" src="https://github.com/Robocnop/skill-icons/blob/main/icons/VisualStudio-Light.svg"></code>
+  <code><img title="Roblox Studio" height="40" src="https://github.com/Robocnop/skill-icons/blob/main/icons/RobloxStudio.svg"></code>
 </p>
