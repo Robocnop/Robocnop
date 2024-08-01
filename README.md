@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile;I'm+Robocnop;Belgian+who+likes+AI&center=true&size=30&color=#F8F8FF">
   </a>
 
-  <a href="https://discord.com/users/542790005219655687">
+  <a href="https://discord.com/users/564871522750300160">
     <img align="right" width="350" src="https://lanyard.kyrie25.me/api/542790005219655687?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117">
   </a>
 </div>
