@@ -23,7 +23,7 @@
 <p align="center">
   <code><img title="CSharp" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
   <code><img title=".NET" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
-  <code><img title="Roblox Studio" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Roblox.svg"></code>
+  <code><img title="Roblox Studio" height="40" src="https://github.com/Robocnop/skill-icons/blob/main/icons/RobloxStudio.svg"></code>
 </p>
 
 <hr>
