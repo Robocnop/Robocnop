@@ -38,4 +38,4 @@
   
 </p>
 
-<p align="center"><i>This profile has been inspired by <a href="https://github.com/LilNesquuik/LilNesquuik">LilNesquuik</a> profile</i></p>
+<p align="center"><i>This profile has been inspired by <a href="https://github.com/LilNesquuik/LilNesquuik">LilNesquuik's</a> Github profile</i></p>
