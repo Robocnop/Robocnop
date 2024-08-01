@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello !;I'm+Robocnop;Belgian+who+likes+AI&center=true&size=30&color=#F8F8FF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello;I'm+Robocnop;Belgian+who+likes+AI&center=true&size=30&color=#F8F8FF">
   </a>
 
   <a href="https://discord.com/users/564871522750300160">
@@ -26,6 +26,5 @@
 <h2 align="center">🔧 Tools 🔧</h2>
 <br>
 <p align="center">
-  <code><img title="Rider" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg"></code>
-  <code><img title="Postman" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"></code>
+  <code><img title="Visual Studio" height="40" src="https://skillicons.dev/icons?i=vs"></code>
 </p>
