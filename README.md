@@ -43,7 +43,13 @@
 <h2 align="center">💻 Robocnop's GitHub stats 📊</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Robocnop&show_icons=true&theme=radical" alt="Robocnop's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Robocnop&show_icons=true&theme=radical" alt="Robocnop's GitHub stats"> 
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Robocnop&layout=compact&theme=radical" alt="Top Languages">
   </a>
 </p>
 
