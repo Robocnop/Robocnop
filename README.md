@@ -40,9 +40,9 @@
 
 <hr>
 
-<h2 align="center">💖 Support Me 💖</h2>
+<h2 align="center">💻 Robocnop's GitHub stats 📊</h2>
 <p align="center">
-  <a href="https://ko-fi.com/P5P6XMKIH">Click here to get access to my KoFi</a>
+  <a[![Robocnop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robocnop)](https://github.com/Robocnop/github-readme-stats)</a>
 </p>
 
 <hr>
