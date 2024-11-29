@@ -38,8 +38,6 @@
   <code><img title="Roblox Studio" height="40" src="https://github.com/Robocnop/skill-icons/blob/main/icons/RobloxStudio.svg"></code>
 </p>
 
-<hr>
-
 <h2 align="center">💻 Robocnop's GitHub stats 📊</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
