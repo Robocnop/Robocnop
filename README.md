@@ -54,5 +54,5 @@
 </p>
 
 <p align="center">
-  <i>This profile has been inspired by <a href="https://github.com/LilNesquuik/LilNesquuik">LilNesquuik's</a> GitHub profile.</i>
+  <i>This profile has been inspired by <a href="https://github.com/LilNesquuik/LilNesquuik">LilNesquuik's</a> GitHub profile & <a href="https://github.com/RomzyyTV/RomzyyTV">RomzyyTV's</a> Github profile.</i>
 </p>
