@@ -2,9 +2,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;I+am+Robocnop;A+silly+Belgian+Dev&center=true&size=30&color=#F8F8FF">
   </a>
-</div>
-
-<div align="center">
   <a href="https://discord.com/users/564871522750300160">
     <img width="350" src="https://lanyard.kyrie25.me/api/564871522750300160?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117" alt="Discord Status">
   </a>
@@ -45,14 +42,3 @@
   <img src="https://streak-stats.demolab.com?user=Robocnop&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robocnop&radius=16&theme=dracula&area=true" height="300" alt="Activity Graph">
 </div>
-
----
-
-<h2 align="center">👨‍💼 My Banner 🃏</h2>
-<p align="center">
-  <img src="https://github.com/Robocnop/Robocnop/blob/main/Banner.gif" alt="My Banner" width="100%">
-</p>
-
-<p align="center">
-  <i>This profile has been inspired by <a href="https://github.com/LilNesquuik/LilNesquuik">LilNesquuik's</a> GitHub profile & by <a href="https://github.com/RomzyyTV/RomzyyTV">RomzyyTV's</a> Github profile.</i>
-</p>
