@@ -16,7 +16,7 @@
 
 <h2 align="center">👤 About Me 👤</h2>
 <p align="center">
-  Hello! I'm a Belgian 🇧🇪 who occasionally creates C# plugins for SCP:SL. I enjoy translating ReadMe and Wiki pages (🇬🇧 -> 🇫🇷). I've contributed to Exiled to <s>earn the Contributor badge</s> enhance the high-level plugin framework . My C# plugins can be a bit messy at times, but I hope some developers will guide me to improve my skills.
+  Hello! I'm a Belgian 🇧🇪 who occasionally creates C# plugins for SCP:SL. I enjoy translating ReadMe and Wiki pages (🇬🇧 -> 🇫🇷). I've contributed to Exiled to <s>earn the Contributor badge</s> enhance the high-level plugin framework. My C# plugins can be a bit messy at times, but I hope some developers will guide me to improve my skills.
 </p>
 
 <hr>
@@ -42,7 +42,9 @@
 
 <h2 align="center">💻 Robocnop's GitHub stats 📊</h2>
 <p align="center">
-  <a[![Robocnop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robocnop)](https://github.com/Robocnop/github-readme-stats)</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Robocnop&show_icons=true&theme=radical" alt="Robocnop's GitHub stats">
+  </a>
 </p>
 
 <hr>
