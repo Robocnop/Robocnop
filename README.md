@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;I+am+Robocnop;A+silly+Belgian+Dev&center=true&size=30&color=#F8F8FF" height="50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;I+am+Robocnop;A+silly+Belgian+Dev&center=true&size=30&color=#F8F8FF" height="80">
   </a>
   <a href="https://discord.com/users/564871522750300160">
     <img width="350" src="https://lanyard.kyrie25.me/api/564871522750300160?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117" alt="Discord Status">
