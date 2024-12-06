@@ -11,9 +11,8 @@
 
 <h2 align="center">👤 About Me 👤</h2>
 <p align="center">
-  Hello! I'm a Belgian 🇧🇪 developer who occasionally creates C# plugins for SCP:SL & more. I enjoy translating ReadMe and Wiki pages (🇬🇧 -> 🇫🇷). 
-  I've contributed to Exiled to <s>earn the Contributor badge</s> enhance the high-level plugin framework. My C# plugins can be a bit messy at times, 
-  but I hope some developers will guide me to improve my skills.
+  Hello! I'm a small Belgian 🇧🇪 developer who occasionally works on small projects. I also enjoy translating ReadMe files and Wiki pages for other projects (🇬🇧 -> 🇫🇷).
+  I’ve contributed to several projects, such as [UCR](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles) and [Exiled](https://github.com/ExMod-Team/EXILED). My C# plugins can sometimes be a bit messy, but I hope other developers will help guide me to improve my skills.
 </p>
 
 ---
