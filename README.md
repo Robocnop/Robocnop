@@ -9,7 +9,7 @@
 
   - UCR: (https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles)
 
-  - Exiled: (https://github.com/ExMod-Team/EXILED)
+  - Exiled: (https://github.com/ExSLMod-Team/EXILED)
 
   - AutoEvent: (https://github.com/RisottoMan/AutoEvent)
 </p>
