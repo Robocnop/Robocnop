@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center">📚 Learning 📚</h2>
+<h2 align="center">📚 Learning / Using ✍️</h2>
 <p align="center">
   <code><img title="CSharp" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
   <code><img title=".NET" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
