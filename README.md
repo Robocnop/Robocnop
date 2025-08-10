@@ -27,7 +27,8 @@
 
 <h2 align="center">🔧 Tools / IDE 🔧</h2>
 <p align="center">
-  <code><img title="Visual Studio" height="40" src="https://github.com/Robocnop/skill-icons/blob/main/icons/VisualStudio-Light.svg"></code>
+  <code><img title="Rider" height="40" src="https://https://github.com/Robocnop/skill-icons/blob/main/icons/Rider-Dark.svg"></code>
+  <code><img title="VSCode" height="40" src="https://github.com/Robocnop/skill-icons/blob/main/icons/VSCode-Dark.svg"></code>
   <code><img title="Roblox Studio" height="40" src="https://github.com/Robocnop/skill-icons/blob/main/icons/RobloxStudio.svg"></code>
 </p>
 
