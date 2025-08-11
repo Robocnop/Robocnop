@@ -4,7 +4,7 @@
 
 <h2 align="center">👤 About Me 👤</h2>
 <p align="center">
-  Hello! I'm a small Belgian 🇧🇪 developer who occasionally works on small projects. I also enjoy translating ReadMe files and Wiki pages for other projects (🇬🇧 -> 🇫🇷).
+  Hello! I'm a little Belgian 🇧🇪 developer who occasionally works on small projects. I also enjoy translating ReadMe files and Wiki pages for other projects (🇬🇧 -> 🇫🇷).
   I’ve contributed to several projects, such as UCR and Exiled. My C# plugins can sometimes be a bit messy, but I hope other developers will help and guide me to improve my skills.
 
   - UCR: (https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles)
