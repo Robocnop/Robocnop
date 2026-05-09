@@ -17,12 +17,12 @@
 
 <h3 align="center">🚀 Projects I've contributed to</h3>
 <p align="center">
-  <a href="https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles"><strong>UCR</strong> — UncomplicatedCustomRoles</a><br/>
-  <a href="https://github.com/ExMod-Team/EXILED"><strong>EXILED</strong> — Exiled Framework</a><br/>
-  <a href="https://github.com/RisottoMan/AutoEvent"><strong>AutoEvent</strong></a><br/>
-  <a href="https://github.com/WilliamVenner/gmpublisher"><strong>gmpublisher</strong></a><br/>
-  <a href="https://github.com/horyu1234/sl-servers-frontend"><strong>sl-servers-frontend</strong></a><br/>
-  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3349811879&searchtext=fazbear+hunt"><strong>Fazbear's Hunt</strong></a>
+  <a href="https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles" target="_blank" rel="noopener noreferrer"><strong>UCR</strong> — UncomplicatedCustomRoles</a><br/>
+  <a href="https://github.com/ExMod-Team/EXILED" target="_blank" rel="noopener noreferrer"><strong>EXILED</strong> — Exiled Framework</a><br/>
+  <a href="https://github.com/RisottoMan/AutoEvent" target="_blank" rel="noopener noreferrer"><strong>AutoEvent</strong></a><br/>
+  <a href="https://github.com/WilliamVenner/gmpublisher" target="_blank" rel="noopener noreferrer"><strong>gmpublisher</strong></a><br/>
+  <a href="https://github.com/horyu1234/sl-servers-frontend" target="_blank" rel="noopener noreferrer"><strong>sl-servers-frontend</strong></a><br/>
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3349811879&searchtext=fazbear+hunt" target="_blank" rel="noopener noreferrer"><strong>Fazbear's Hunt</strong></a>
 </p>
 
 ---
