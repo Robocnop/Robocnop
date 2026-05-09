@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FD6C9E&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Robocnop+%F0%9F%91%8B;Belgian+Developer+%F0%9F%87%A7%F0%9F%87%AA;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FD6C9E&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Robocnop+%F0%9F%91%8B;Belgian+Guy+%F0%9F%87%A7%F0%9F%87%AA" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,7 +19,9 @@
 <p align="center">
   <a href="https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles"><strong>UCR</strong> — UncomplicatedCustomRoles</a><br/>
   <a href="https://github.com/ExMod-Team/EXILED"><strong>EXILED</strong> — Exiled Framework</a><br/>
-  <a href="https://github.com/RisottoMan/AutoEvent"><strong>AutoEvent</strong></a>
+  <a href="https://github.com/RisottoMan/AutoEvent"><strong>AutoEvent</strong></a><br/>
+  <a href="https://github.com/WilliamVenner/gmpublisher"><strong>gmpublisher</strong></a><br/>
+  <a href="https://github.com/horyu1234/sl-servers-frontend"><strong>sl-servers-frontend</strong></a>
 </p>
 
 ---
