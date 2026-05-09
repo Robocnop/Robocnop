@@ -21,7 +21,8 @@
   <a href="https://github.com/ExMod-Team/EXILED"><strong>EXILED</strong> — Exiled Framework</a><br/>
   <a href="https://github.com/RisottoMan/AutoEvent"><strong>AutoEvent</strong></a><br/>
   <a href="https://github.com/WilliamVenner/gmpublisher"><strong>gmpublisher</strong></a><br/>
-  <a href="https://github.com/horyu1234/sl-servers-frontend"><strong>sl-servers-frontend</strong></a>
+  <a href="https://github.com/horyu1234/sl-servers-frontend"><strong>sl-servers-frontend</strong></a><br/>
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3349811879&searchtext=fazbear+hunt"><strong>Fazbear's Hunt</strong></a>
 </p>
 
 ---
