@@ -22,7 +22,7 @@
   <a href="https://github.com/RisottoMan/AutoEvent" target="_blank" rel="noopener noreferrer"><strong>AutoEvent</strong></a><br/>
   <a href="https://github.com/WilliamVenner/gmpublisher" target="_blank" rel="noopener noreferrer"><strong>gmpublisher</strong></a><br/>
   <a href="https://github.com/horyu1234/sl-servers-frontend" target="_blank" rel="noopener noreferrer"><strong>sl-servers-frontend</strong></a><br/>
-  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3349811879&searchtext=fazbear+hunt" target="_blank" rel="noopener noreferrer"><strong>Fazbear's Hunt</strong></a>
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3349811879&searchtext=fazbear+hunt" target="_blank" rel="noopener noreferrer"><strong>Fazbear's Hunt</strong></a><br/>
   <a href="https://github.com/itsfatduck/optimizerDuck" target="_blank" rel="noopener noreferrer"><strong>OptimzerDuck</strong></a>
 </p>
 
