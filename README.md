@@ -25,7 +25,7 @@
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3349811879&searchtext=fazbear+hunt" target="_blank" rel="noopener noreferrer"><strong>Fazbear's Hunt</strong></a><br/>
   <a href="https://github.com/itsfatduck/optimizerDuck" target="_blank" rel="noopener noreferrer"><strong>OptimzerDuck</strong></a><br/>
   <a href="https://github.com/msitarzewski/agency-agents-app" target="_blank" rel="noopener noreferrer"><strong>Agency-agents-app</strong></a><br/>
-  <z href="https://github.com/olcayseygan/CnCGeneralsZH-Reforged" target="_blank" rel="noopener noreferrer"><strong>CnCGeneralsZH-Reforged</strong></a>
+  <a href="https://github.com/olcayseygan/CnCGeneralsZH-Reforged" target="_blank" rel="noopener noreferrer"><strong>CnCGeneralsZH-Reforged</strong></a>
 </p>
 
 ---
